@@ -1,0 +1,21 @@
+{
+  "name": "casino-yes-or-no.com",
+  "version": "1.0.0",
+  "description": "The entire [casino-yes-or-no.com](http://casino-yes-or-no.com) website.",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "semantic": "^0.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-casino:casino-yes-or-no/casino-yes-or-no.com.git"
+  },
+  "author": "",
+  "license": "GPL-3.0"
+}
