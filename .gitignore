@@ -1,1 +1,8 @@
+.DS_Store
+.sass-cache
+.publish
+public
 /node_modules
+**/generated/_icons.sass
+npm-debug.log
+/dist
