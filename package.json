@@ -1,21 +1,24 @@
 {
-  "name": "casino-yes-or-no.com",
+  "name": "cyorn",
+  "title": "Cyorn",
   "version": "1.0.0",
-  "description": "The entire [casino-yes-or-no.com](http://casino-yes-or-no.com) website.",
-  "main": "index.js",
-  "dependencies": {
+  "license": {
+    "type": "MIT"
   },
   "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "browser-sync": "^2.13.0",
+    "font-awesome": "^4.6.3",
     "gulp": "^3.9.1",
-    "semantic": "^0.0.1"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "gulp-clean-css": "^2.0.10",
+    "gulp-header": "^1.8.7",
+    "gulp-less": "^3.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.4",
+    "jquery": "^1.11.3"
   },
   "repository": {
     "type": "git",
-    "url": "git@github-casino:casino-yes-or-no/casino-yes-or-no.com.git"
-  },
-  "author": "",
-  "license": "GPL-3.0"
+    "url": "https://github.com/casino-yes-or-no/casino-yes-or-no.com.git"
+  }
 }
